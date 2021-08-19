@@ -1,6 +1,2 @@
 # code-refactor
-p:hover {
-text-decoration: underline;
-font-weight: bold;
-
-}
+i add hover over the text to help see the text better
